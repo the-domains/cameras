@@ -4,15 +4,8 @@
         <description><![CDATA[Cameras]]></description>
         <link>https://thegrid.ai/cameras/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Apr 2016 09:55:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 09:55:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cameras/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://blog.iso50.com/wp-content/uploads/2010/12/01222010_164937-_IGP0057.jpg">]]></description>
-            <link>https://thegrid.ai/cameras/7610dfaf-f2d7-48e6-a5d4-b00c0c182311/index.html</link>
-            <guid isPermaLink="false">7610dfaf-f2d7-48e6-a5d4-b00c0c182311</guid>
-            <pubDate>Wed, 20 Apr 2016 09:55:55 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Leica X-U Camera]]></title>
             <description><![CDATA[<article><h1>Leica X-U Camera</h1><p>You're not going to mistake it for one of the company's vintage rangefinders, but the Leica X-U Camera can do several things those can't - like shoot underwater. Developed in collaboration with Audi Design, this 16.5 megapixel APS-C shooter is...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3d7b0a3fbdac8c6e7b3ef06f25ddb8b966a7608.jpg"></article>]]></description>
@@ -75,6 +68,13 @@
             <link>http://www.theverge.com/2015/11/5/9671564/lytro-immerge-light-field-vr-video-camera</link>
             <guid isPermaLink="false">10129c21-4582-407e-9fb9-7c8bd8c577a9</guid>
             <pubDate>Wed, 20 Apr 2016 09:30:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Facebook's 'Surround 360' is a $30k camera that shoots 360 video in 8k resolution]]></title>
+            <description><![CDATA[<article><h1>Facebook's 'Surround 360' is a $30k camera that shoots 360 video in 8k resolution</h1><p>It's no secret that Facebook has gone all-in on virtual reality. But if you had, for just a moment, lost sight of that fact its new 'Surround 360' camera should put things back into perspective for you. Today at F8, Facebook announced its Surround 360 camera, a 17-lens 3D VR rig that looks like ' Gravitron ' but shoots top-notch 360 degree video.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f34b5799c011c218945114f7ba89f36b5c4bcb53.jpg"></article>]]></description>
+            <link>http://thenextweb.com/facebook/2016/04/12/facebooks-surround-360-is-a-30k-camera-that-shoots-360-video-in-8k-resolution/#gref</link>
+            <guid isPermaLink="false">f5e7b5a2-92c8-4973-8eda-69cf161d7082</guid>
+            <pubDate>Wed, 20 Apr 2016 09:25:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
