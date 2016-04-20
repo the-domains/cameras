@@ -1,0 +1,14 @@
+layout_spectrum: 0.07972035463899374
+typography_spectrum: 0.3905068861786276
+color:
+  brandStrength: 0.789750675437972
+  lightness: 0.2845285285729915
+  saturation: 0.02959201275371015
+  rhythmicContrast: 0.5281425334978849
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Cameras
