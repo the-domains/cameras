@@ -22,10 +22,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://uncrate.com/stuff/leica-x-u-camera/'
 title: Leica X-U Camera
-datePublished: '2016-04-20T09:55:55.731Z'
-dateModified: '2016-04-20T09:41:28.277Z'
+datePublished: '2016-04-29T03:09:32.033Z'
+dateModified: '2016-04-20T10:00:06.189Z'
 sourcePath: _posts/2016-04-20-leica-x-u-camera.md
 published: true
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
