@@ -1,5 +1,4 @@
 typography_spectrum: 0.3905068861786276
-style: the-composer
 color:
   brandColors:
     - '#000000'
@@ -25,5 +24,7 @@ cta:
   domain: null
   bucket: null
   version: null
+style: the-composer
 favicon: null
+title: Cameras
 purpose: []
