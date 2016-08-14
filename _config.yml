@@ -19,12 +19,12 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Cameras
+name: Camera
 cta:
   domain: null
   bucket: null
   version: null
 style: the-composer
 favicon: null
-title: Cameras
+title: ''
 purpose: []
